@@ -16,7 +16,7 @@ git clone [Title](https://github.com/astashenko/FeatureEngineeringPD.git)
   
 - Директория **src/data** предназначена для создания .plk файлов, инициализации функций доступа к данным
 
-- Описание сформированных данных reports/report_of_testing_data.md
+- Описание сформированных данных report_of_testing_data.md
 
 - Порядок тестирования сформированных данных src/testing/plan_of_test.md
   
