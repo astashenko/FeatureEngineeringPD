@@ -30,7 +30,6 @@ params.ipynb
 /data/img/*
 
 /data/draft/*
-/src/testing/*
 /src/exploratory/*
 /src/external_scripts/*
 src/draft/*
